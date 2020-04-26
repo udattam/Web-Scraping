@@ -1,4 +1,4 @@
-# Web Scraing Tutorial
+# Web Scraping Tutorial
 
 [Video Source](https://www.youtube.com/playlist?list=PL5-da3qGB5IDbOi0g5WFh1YPDNzXw4LNL)
 
